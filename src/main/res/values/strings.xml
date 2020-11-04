@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">contact app</string>
+
+    <string name="category_Family">Family</string>
+
+    <string name="category_Work">Work</string>
+
+    <string name="category_Friends">Friends</string>
+
+</resources>

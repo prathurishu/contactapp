@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#4A312A</color>
+
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <color name="tan_background">#FFF7DA</color>
+
+    <color name="category_Family">#F50057</color>
+
+    <color name="category_Work">#5C6BC0</color>
+
+    <color name="category_Friends">#64DD17</color>
+</resources>
